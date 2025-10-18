@@ -1,4 +1,6 @@
 Expense Tracker CLI
+https://github.com/jaeyunjks/expense-tracker
+
 A simple command-line application to help you manage your daily expenses easily. Add, update, list, filter, and export your expenses all from your terminal.
 
 Features
